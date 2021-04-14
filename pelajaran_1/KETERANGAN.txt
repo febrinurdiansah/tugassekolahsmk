@@ -1,0 +1,18 @@
+<b> = bold
+<i> = italic
+<u> = underline
+<h> = 
+<p> = paragraf
+<br>= SPASI KE BAWAH
+<font color=green> = merubah warna huruf
+Face = tipe font
+size = ukuran huruf
+<img src=balon.jpg>
+<audio src=balonku.mp3>
+
+<tr> = Baris
+<td> = Kolom
+align = posisi tempat
+rownspan = Baris
+colspan = Kolom
+
